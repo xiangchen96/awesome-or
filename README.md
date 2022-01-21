@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
-- **[Software](#Software)**
-- **[Modeling Languages](#Modeling-Languages)**
+- **[Software](#software)**
+- **[Modeling Languages](#modeling-languages)**
 - **[Courses](#courses)**
-- **[Websites](#Websites)**
-- **[Conferences](#Conferences)**
+- **[Websites](#websites)**
+- **[Conferences](#conferences)**
 - **[Papers](#papers)**
 - **[Books](#books)**
+- **[People](#people)**
 
 ### Software
 
@@ -25,6 +26,7 @@ Commercial:
 3. [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) commercial suite
 4. [LocalSolver](https://www.localsolver.com/): commercial suite
 5. [SCIP](https://www.scipopt.org/): optimization suite by the Zuse Institute Berlin (ZIB)
+6. [Knitro](https://www.artelys.com/solvers/knitro/): commercial solver for non linear programming
 
 ### Modeling Languages
 
@@ -39,8 +41,6 @@ Commercial:
 ### Websites
 
 1. [StackExchange](https://or.stackexchange.com/)
-2. [Hakank's Blog](http://hakank.org/)
-3. [Yet Another Math Programming Consultant](https://yetanothermathprogrammingconsultant.blogspot.com/)
 
 ### Conferences
 
@@ -51,3 +51,9 @@ Commercial:
 ### Papers
 
 ### Books
+
+### People
+
+1. [Håkan Kjellerstrand](http://hakank.org/)
+2. [Erwin Kalvelagen](https://yetanothermathprogrammingconsultant.blogspot.com/)
+3. [Paul A. Rubin](https://orinanobworld.blogspot.com/)
