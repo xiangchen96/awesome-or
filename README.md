@@ -2,34 +2,45 @@
 
 ## Table of Contents
 
-- **[Solvers](#Solvers)**
+- **[Software](#Software)**
 - **[Modeling Languages](#Modeling-Languages)**
 - **[Courses](#courses)**
+- **[Websites](#Websites)**
 - **[Conferences](#Conferences)**
 - **[Papers](#papers)**
 - **[Books](#books)**
 
-### Solvers
+### Software
 
-1. [OR-Tools](https://developers.google.com/optimization)
-2. [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)
-3. [Gurobi](https://www.gurobi.com/)
-4. [COIN-OR](https://www.coin-or.org/)
-5. [SCIP](https://www.scipopt.org/)
-6. [LocalSolver](https://www.localsolver.com/)
-7. [OptaPlanner](https://www.optaplanner.org/)
+Free:
+
+1. [OR-Tools](https://developers.google.com/optimization): open source suite by Google
+2. [OptaPlanner](https://www.optaplanner.org/): open source CP Solver
+3. [COIN-OR](https://www.coin-or.org/): open source suite
+
+Commercial:
+
+1. [CPLEX](https://www.ibm.com/analytics/cplex-optimizer): commercial suite by IBM
+2. [Gurobi](https://www.gurobi.com/): commercial suite
+3. [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) commercial suite
+4. [LocalSolver](https://www.localsolver.com/): commercial suite
+5. [SCIP](https://www.scipopt.org/): optimization suite by the Zuse Institute Berlin (ZIB)
 
 ### Modeling Languages
 
 1. [MiniZinc](https://www.minizinc.org/)
 2. [GAMS](https://www.gams.com/)
+3. [AMPL](https://www.ampl.com/)
 
 ### Courses
 
 1. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
-2. [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling)
-3. [Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/advanced-modeling)
-4. [Solving Algorithms for Discrete Optimization](https://www.coursera.org/learn/solving-algorithms-discrete-optimization)
+
+### Websites
+
+1. [StackExchange](https://or.stackexchange.com/)
+2. [Hakank's Blog](http://hakank.org/)
+3. [Yet Another Math Programming Consultant](https://yetanothermathprogrammingconsultant.blogspot.com/)
 
 ### Conferences
 
