@@ -19,7 +19,7 @@
 
 - [OR-Tools](https://developers.google.com/optimization) - Open source suite by Google.
 - [OptaPlanner](https://www.optaplanner.org/) - Open source CP Solver.
-- [COIN-OR](https://www.coin-or.org/) - oOpenpen source suite.
+- [COIN-OR](https://www.coin-or.org/) - Openpen source suite.
 
 ### Commercial
 
@@ -38,28 +38,31 @@
 
 ## Courses
 
-- [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
+- [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization) - Course offered by The University of Melbourne.
+- [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling) - Basic modeling course taught using MiniZinc.
+- [Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/advanced-modeling) - Advanced modeling course taught using MiniZinc.
 
 ## Websites
 
-- [StackExchange](https://or.stackexchange.com/)
+- [StackExchange](https://or.stackexchange.com/) - Stack Exchange site for Operations Research.
 
 ## Conferences
 
-- [CPAIOR](https://cpaior.org/)
-- [CP Conference](https://www.a4cp.org/events/cp-conference-series)
-- [INFORMS](https://www.informs.org/)
+- [CPAIOR](https://cpaior.org/) - Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
+- [CP Conference](https://www.a4cp.org/events/cp-conference-series) - Principles and Practice of Constraint Programming.
+- [INFORMS](https://www.informs.org/) - Institute for Operations Research and the Management Sciences.
 
 ## Papers
 
 ## Books
 
-- [Operations Research: An Introduction](https://www.pearson.com/us/higher-education/program/Taha-Operations-Research-An-Introduction-10th-Edition/PGM334070.html) - By Hamdy A. Taha.
-- [Operations Research: Applications and Algorithms](https://www.amazon.com/Operations-Research-Applications-Algorithms-InfoTrac/dp/0534380581) - By Wayne L. Winston.
-- [Model Building in Mathematical Programming](https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330) - By H. Paul Williams.
+- [Operations Research: An Introduction](https://www.pearson.com/us/higher-education/program/Taha-Operations-Research-An-Introduction-10th-Edition/PGM334070.html) - Introductory book by Hamdy A. Taha.
+- [Operations Research: Applications and Algorithms](https://www.amazon.com/Operations-Research-Applications-Algorithms-InfoTrac/dp/0534380581) - Introductory book by Wayne L. Winston.
+- [Model Building in Mathematical Programming](https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330) - Introductory modeling book by H. Paul Williams.
+- [Handbook of Constraint Programming](https://www.amazon.com/dp/0444527265) - Introductory CP book by F. Rossi, Peter van Beek and Toby Walsh.
 
 ## People
 
-- [Håkan Kjellerstrand](http://hakank.org/)
-- [Erwin Kalvelagen](https://yetanothermathprogrammingconsultant.blogspot.com/)
-- [Paul A. Rubin](https://orinanobworld.blogspot.com/)
+- [Håkan Kjellerstrand](http://hakank.org/) - Independent Researcher, focused on CP.
+- [Erwin Kalvelagen](https://yetanothermathprogrammingconsultant.blogspot.com/) - Math Programming Consultant.
+- [Paul A. Rubin](https://orinanobworld.blogspot.com/) - Professor Emeritus of Management Science.
