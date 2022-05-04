@@ -20,6 +20,7 @@
 - [OR-Tools](https://developers.google.com/optimization) - Open source suite by Google.
 - [OptaPlanner](https://www.optaplanner.org/) - Open source CP Solver.
 - [COIN-OR](https://www.coin-or.org/) - Openpen source suite.
+- [HiGHS](https://www.maths.ed.ac.uk/hall/HiGHS/) - Open source serial and parallel solvers for LP, MIP and QP
 
 ### Commercial
 
