@@ -19,7 +19,7 @@
 
 - [OR-Tools](https://developers.google.com/optimization) - Open source suite by Google.
 - [OptaPlanner](https://www.optaplanner.org/) - Open source CP Solver.
-- [COIN-OR](https://www.coin-or.org/) - Openpen source suite.
+- [COIN-OR](https://www.coin-or.org/) - Open source suite.
 - [HiGHS](https://www.maths.ed.ac.uk/hall/HiGHS/) - Open source serial and parallel solvers for LP, MIP and QP
 
 ### Commercial
@@ -30,12 +30,17 @@
 - [LocalSolver](https://www.localsolver.com/) - Commercial suite.
 - [SCIP](https://www.scipopt.org/) - Optimization suite by the Zuse Institute Berlin (ZIB).
 - [Knitro](https://www.artelys.com/solvers/knitro/) - Commercial solver for non linear programming.
+- [Mosek](https://www.mosek.com/) - Commercial suite.
+- [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - TSP Solver.
 
-## Modeling Languages
+## Modeling Languages / Interfaces
 
 - [MiniZinc](https://www.minizinc.org/) - Constraint modeling language.
 - [GAMS](https://www.gams.com/) - High-level modeling system.
 - [AMPL](https://www.ampl.com/) - Algebraic modeling language.
+- [JuMP](https://jump.dev/) - Open source modeling language for Julia.
+- [Pyomo](http://www.pyomo.org/)
+- [PuLP](https://coin-or.github.io/pulp/)
 
 ## Courses
 
