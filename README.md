@@ -70,9 +70,9 @@
 - [Introduction to Mathematical Optimization](https://www.amazon.com/dp/1692792024/) - Introductory book with a focus on integer programming by Matteo Fischetti.
 - [Combinatorial Optimization](https://www.amazon.com/dp/3540443894/) - Introductory book on combinatorial optimization with a strong mathematical background by Alexander Schrijver.
 - [Model Building in Mathematical Programming](https://www.wiley.com/en-ie/Model+Building+in+Mathematical+Programming,+5th+Edition-p-9781118443330) - Introductory modeling book by H. Paul Williams.
-- [Network Flow Algorithms](https://www.amazon.fr/dp/1316636836/) - Introductory book on flow algorithms, by David P. Williamson.
+- [Network Flow Algorithms](https://www.amazon.com/Network-Flow-Algorithms-David-Williamson/dp/1107185890) - Introductory book on flow algorithms, by David P. Williamson.
 - [Handbook of Constraint Programming](https://www.amazon.com/dp/0444527265) - Introductory CP book by F. Rossi, Peter van Beek and Toby Walsh.
-- [Algorithms Illuminated: Algorithms for NP-Hard Problems](https://www.amazon.fr/dp/0999282964/) - Intuitive view on combinatorial optimisation problems as part of an algorithms course (introductory for operational research, advanced for algorithms), by Tim Roughgarden.
+- [Algorithms Illuminated: Algorithms for NP-Hard Problems](https://www.amazon.com/Algorithms-Illuminated-Part-NP-Hard-Problems/dp/0999282964) - Intuitive view on combinatorial optimisation problems as part of an algorithms course (introductory for operational research, advanced for algorithms), by Tim Roughgarden.
 
 ### Advanced
 
@@ -82,7 +82,7 @@
 - [Combinatorial Optimization: Algorithms and Complexity](https://www.amazon.com/dp/0486402584) - Focus on complexity, slightly outdated book, by Christos H. Papadimitriou, Kenneth Steiglitz.
 - [Integer Programming](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536) - Very terse but complete book, by Laurence Wolsey.
 - [50 Years of Integer Programming 1958-2008](https://link.springer.com/book/10.1007/978-3-540-68279-0) - Historical review of key results.
-- [Introduction to Optimization and Hadamard Semidifferential Calculus](https://www.amazon.fr/dp/1611975956/) - Overview book of the field of semidifferentiable optimisation by Michel C. Delfour.
+- [Introduction to Optimization and Hadamard Semidifferential Calculus](https://www.amazon.com/Introduction-Optimization-Hadamard-Semidifferential-Calculus/dp/1611975956) - Overview book of the field of semidifferentiable optimisation by Michel C. Delfour.
 
 ### Reference
 
