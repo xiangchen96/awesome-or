@@ -36,11 +36,11 @@
 ## Modeling Languages and Interfaces
 
 - [MiniZinc](https://www.minizinc.org/) - Constraint modeling language.
-- [GAMS](https://www.gams.com/) - High-level modeling system.
-- [AMPL](https://www.ampl.com/) - Algebraic modeling language.
-- [JuMP](https://jump.dev/) - Open source modeling language for Julia.
-- [Pyomo](http://www.pyomo.org/)
-- [PuLP](https://coin-or.github.io/pulp/)
+- [GAMS](https://www.gams.com/) - High-level modeling system, no constraint programming.
+- [AMPL](https://www.ampl.com/) - Algebraic modeling language, both linear/integer and constraint programming.
+- [JuMP](https://jump.dev/) - Open source modeling language for Julia, mostly linear/integer programming.
+- [Pyomo](http://www.pyomo.org/) - Open source modeling library for Python, only linear/integer programming.
+- [PuLP](https://coin-or.github.io/pulp/) - Open source modeling library for Python, only linear/integer programming.
 
 ## Courses
 
