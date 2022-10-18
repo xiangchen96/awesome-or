@@ -24,14 +24,30 @@
 
 ### Commercial
 
-- [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - Commercial suite by IBM.
-- [Gurobi](https://www.gurobi.com/) - Commercial suite.
-- [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) - Commercial suite.
-- [LocalSolver](https://www.localsolver.com/) - Commercial suite.
-- [SCIP](https://www.scipopt.org/) - Optimization suite by the Zuse Institute Berlin (ZIB).
-- [Knitro](https://www.artelys.com/solvers/knitro/) - Commercial solver for non linear programming.
-- [Mosek](https://www.mosek.com/) - Commercial suite.
-- [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html) - TSP Solver.
+| Solver name                                                              | Company               | Supported problem types                                      |
+|--------------------------------------------------------------------------|-----------------------|--------------------------------------------------------------|
+| [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)                   | IBM                   | (MI)LP, (non)convex (MI)QP, (MI)SOCP                         |
+| [Gurobi](https://www.gurobi.com/)                                        | Gurobi                | (MI)LP, (non)convex (MI)QP, (non)convex (MI)QCP              |
+| [FICO Xpress](https://www.fico.com/en/products/fico-xpress-optimization) | FICO                  | (MI)LP, (MI)SOCP                                             |
+| [LocalSolver](https://www.localsolver.com/)                              | LocalSolver           | (MI)LP, (non)convex (MI)QP, (non)convex (MI)QCP, (MI)NLP, CP |
+| [SCIP](https://www.scipopt.org/)                                         | Zuse Institute Berlin | (MI)LP, (MI)NLP                                              |
+| [Knitro](https://www.artelys.com/solvers/knitro/)                        | Artelys               | (MI)LP, (MI)SOCP, (MI)NLP                                    |
+| [Mosek](https://www.mosek.com/)                                          | Mosek                 | (MI)LP, (MI)QP, (MI)SOCP, SDP, EXP, POW, GEOMEAN             |
+| [Concorde](http://www.math.uwaterloo.ca/tsp/concorde.html)               | UWaterloo             | TSP                                                          |
+
+Meaning of the acronyms:
+
+- LP: linear programming
+- QP: quadratic programming
+- SOCP: second-order cone programming
+- QCP: quadratically-constrained programming
+- NLP: nonlinear programming
+- CP: constraint programming
+- SDP: semi-definite programming
+- EXP: exponential code programming
+- POW: power code programming
+- GEOMEAN: geometrical mean cone programming
+- TSP: travelling salesperson problem
 
 ## Modeling Languages and Interfaces
 
