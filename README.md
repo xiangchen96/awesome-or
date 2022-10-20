@@ -66,7 +66,9 @@ Meaning of the acronyms:
 
 ## Websites
 
+- [Amazon science](https://www.amazon.science/research-areas/operations-research-and-optimization) - Papers and blog posts by Amazon.
 - [StackExchange](https://or.stackexchange.com/) - Stack Exchange site for Operations Research.
+- [Subreddit](https://www.reddit.com/r/OperationsResearch/) - r/OperationsResearch subreddit.
 
 ## Conferences
 
