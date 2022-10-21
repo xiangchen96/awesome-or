@@ -84,6 +84,8 @@ Meaning of the acronyms:
 
 - [Operations Research: An Introduction](https://www.pearson.com/us/higher-education/program/Taha-Operations-Research-An-Introduction-10th-Edition/PGM334070.html) - Introductory book by Hamdy A. Taha.
 - [Operations Research: Applications and Algorithms](https://www.amazon.com/Operations-Research-Applications-Algorithms-InfoTrac/dp/0534380581) - Introductory book by Wayne L. Winston.
+- [Introduction To Operations Research](https://www.amazon.com/Lieberman-Nag-Basu-Hillier/dp/9339221850) - General reference by Hillier, Lieberman, Nag, Basu.
+- [Applied Mathematical Programming](http://web.mit.edu/15.053/www/AppliedMathematicalProgramming.pdf) - Reference book by Bradley, Hax, and Magnanti, used at MIT.
 - [Linear Programming: Foundations and Extensions](https://www.amazon.com/dp/303039414X/) - Introductory book with a focus on the simplex algorithm by Robert J. Vanderbei.
 - [Introduction to Mathematical Optimization](https://www.amazon.com/dp/1692792024/) - Introductory book with a focus on integer programming by Matteo Fischetti.
 - [Combinatorial Optimization](https://www.amazon.com/dp/3540443894/) - Introductory book on combinatorial optimization with a strong mathematical background by Alexander Schrijver.
