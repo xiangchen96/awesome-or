@@ -1,5 +1,7 @@
 # Awesome Operations Research [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> Archived to avoid any bias, a good alternative is: https://github.com/ebrahimpichka/awesome-optimization
+
 ## Contents
 
 - [Software](#software)
